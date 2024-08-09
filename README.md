@@ -1,1 +1,2 @@
 # Covid-data-Dashboard
+The interactive COVID-19 status dashboard is designed to provide insights into the current situation, trends, and forecasts of COVID-19 cases. The dashboard comprises five primary visualizations, each tailored to deliver specific information crucial for understanding the pandemic's trajectory. The ability to interact with the dashboard through filters such as date range and case status (laboratory confirmed or probable) enhances the user experience and ensures that the data presented is relevant to the user's needs.
